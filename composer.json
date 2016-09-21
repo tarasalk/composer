@@ -1,7 +1,7 @@
 {
     "name": "tarasalk/composer",
     "description": "описание",
-    "version": "версия",
+    "version": "1",
     "license": "лицензия",
     "require": {
 
