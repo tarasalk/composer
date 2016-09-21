@@ -1,0 +1,14 @@
+{
+    "name": "tarasalk/composer",
+    "description": "описание",
+    "version": "версия",
+    "license": "лицензия",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "tarasalk\\": "app/"
+        }
+    }
+}
